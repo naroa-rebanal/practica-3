@@ -1,5 +1,5 @@
 
-# Título del Proyecto
+# Crea tu propia competición
 
 _Proyecto que te permite crear tu propia competición basada en una serie de parametros que tu elijas_
 
