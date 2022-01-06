@@ -11,13 +11,13 @@ Autora: **Naroa Rebanal**
 Para la ejecucíon de la competición se hace uso de diversas funciones. A continuación se adjunta una guía para poder encontrarlas más facilmente.
 
 1.Nombre de la función: competition  
-Línea: 5 
+Línea: 5  
 Parámetros:  
-   * participants -> array con los participantes  
-   * scope -> el ambito de la competición (si es mundial, local, en un pais, escolar...)  
-   * year -> el año en el que tiene lugar  
-   * sport -> tipo de deporte que es  
-   * type -> el tipo de competición (masculina, femenina, infantil...)  
+  participants -> array con los participantes  
+  scope -> el ambito de la competición (si es mundial, local, en un pais, escolar...)  
+  year -> el año en el que tiene lugar  
+  sport -> tipo de deporte que es  
+  type -> el tipo de competición (masculina, femenina, infantil...)  
 Uso: Con esta función montamos la estructura principal de la competición  
 
 2.Nombre de la función: round  
