@@ -3,7 +3,8 @@
 
 _Proyecto que te permite crear tu propia competición basada en una serie de parametros que tu elijas_
 
-Autora: **Naroa Rebanal** 
+**Autora**: Naroa Rebanal
+**Nombre del archivo:** index.js
 
 
 ### Guía de las funciones utilizadas 
